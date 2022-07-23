@@ -1,0 +1,2 @@
+# RazorTemplateNamespaceExample
+Example of issues
